@@ -1,0 +1,12 @@
+sigma = 10.0
+rho   = 28.0
+beta  = 8.0/3
+step_size       = 0.01     # 积分步长
+da_interval     = 8        # 同化时间间隔
+window_len      = 200      # 同化窗口长度
+background_err  = 4.0      # 先验场的参数误差
+relative_err    = 7.7e-03
+NbTraining      = 10000    # 训练集大小
+NbVal           = 2000     # 验证集大小
+NbTest          = 3000     # 测试集大小
+sigNoise        = 1.414    # 观测噪声标准差
