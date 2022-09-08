@@ -1,0 +1,6 @@
+DANN/Lorenz63/dataset/N1.414_training_set.npz filter=lfs diff=lfs merge=lfs -text
+DANN/Lorenz96/dataset/N1.414_training_set.npz filter=lfs diff=lfs merge=lfs -text
+DANN/Lorenz96/L96_test_set/testset_1.npz filter=lfs diff=lfs merge=lfs -text
+DANN/Lorenz63/L63_test_set/testset_1.npz filter=lfs diff=lfs merge=lfs -text
+DANN/Lorenz96/L96_test_set/testset_1.npz“ filter=lfs diff=lfs merge=lfs -text
+DANN/Lorenz63/L63_test_set/testset_1.npz“ filter=lfs diff=lfs merge=lfs -text
